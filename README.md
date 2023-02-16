@@ -1,6 +1,6 @@
 # BulkLMM_Analyses
 
-Analyses of real data using BulkLMM.
+## Analyses of real data using BulkLMM.
 
 Still a (young) work in progress...
 
