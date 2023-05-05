@@ -6,7 +6,7 @@
 
 #### Merged pull requests:
 - Preparation for official release of new features: simplified the interface for the feature, added tests;
-- Added a small change in source code: `bulkscan_null_grid()` (using grid-search algorithm) previously does an implicit standardization to input matrices, which interferes and can cause accracy issues with the new feature (when weighted variances added in); this modification will not affect performance of the function compared to last release.
+- Added a small change in source code: `bulkscan_null_grid()` (using grid-search algorithm) previously does an implicit standardization to input matrices, which interferes and can cause accuracy issues with the new feature (when weighted variances added in); this modification will not affect performance of the function compared to last release.
 [#73](https://github.com/senresearch/BulkLMM.jl/pull/73)
 ---
 ## Version 1.0.1:
