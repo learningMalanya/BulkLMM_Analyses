@@ -1,5 +1,5 @@
 ## Version 1.1.0:
----
+
 #### Closed issues:
 - Modified source code for grid-search algorithms: allowed the feature of regularization using Bayes on the objective function [(#55)](https://github.com/senresearch/BulkLMM.jl/issues/55) 
 - Created [NEWS.md] file for detailed description for major updates [(#56)](https://github.com/senresearch/BulkLMM.jl/issues/56)
@@ -10,7 +10,7 @@
 [#73](https://github.com/senresearch/BulkLMM.jl/pull/73)
 ---
 ## Version 1.0.1:
----
+
 #### Closed issues:
 No issue was closed compared to last release.
 
