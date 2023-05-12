@@ -8,9 +8,9 @@
 ##   threads        = 8
 ##   parallel type  = threaded
 ##
-## Command Line Input = /home/zyu20/Softwares/gemma-0.98.5-linux-static-AMD64 -g data/GEMMA_data/GN886_geno_strains_summary.txt -p data/GEMMA_data/GN886_pheno_huber_strains_summary.txt -k data/GEMMA_data/kinship_strains.txt -lmm 2 -lmax 1000000 -o results_strains.txt 
+## Command Line Input = /home/zyu20/Softwares/gemma-0.98.5-linux-static-AMD64 -g data/GEMMA_data/GN886_geno_strains_summary.txt -p data/GEMMA_data/GN886_pheno_strains_summary.txt -k data/GEMMA_data/kinship_strains.txt -lmm 2 -lmax 1000000 -o results_strains.txt 
 ##
-## Date = Tue Feb 21 13:17:58 2023
+## Date = Fri May 12 17:43:50 2023
 ##
 ## Summary Statistics:
 ## number of total individuals = 50
@@ -19,19 +19,19 @@
 ## number of phenotypes = 1
 ## number of total SNPs/var = 7321
 ## number of analyzed SNPs/var = 7321
-## REMLE log-likelihood in the null model = 32.0236
-## MLE log-likelihood in the null model = 39.2269
-## pve estimate in the null model = 0.664313
-## se(pve) in the null model = 0.444522
-## vg estimate in the null model = 0.0236973
-## ve estimate in the null model = 0.00569663
-## beta estimate in the null model =   15.3048
-## se(beta) =   0.0106739
+## REMLE log-likelihood in the null model = nan
+## MLE log-likelihood in the null model = 55.0074
+## pve estimate in the null model = nan
+## se(pve) in the null model = nan
+## vg estimate in the null model = nan
+## ve estimate in the null model = nan
+## beta estimate in the null model =   nan
+## se(beta) =   nan
 ##
 ## Computation Time:
-## total computation time = 0.0326237 min 
+## total computation time = 0.0311629 min 
 ## computation time break down: 
-##      time on eigen-decomposition = 0.000148283 min 
-##      time on calculating UtX = 0.000234517 min 
-##      time on optimization = 0.0180846 min 
+##      time on eigen-decomposition = 0.000145767 min 
+##      time on calculating UtX = 0.000235183 min 
+##      time on optimization = 0.0177416 min 
 ##
